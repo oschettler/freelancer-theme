@@ -40,10 +40,11 @@ address:
   - line: Germany
   
 # Credits content
-credits:
-  - Freelance theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.
-  - Site scaffolding by <a href="https://github.com/jeromelachaud/freelancer-theme">Jerome Lachaud</a>
-  - Site generator by <a href="https://dossier.pm" title="A generator for beautiful and up to date portfolio sites">me ;)</a>
+credits: |
+  Freelance theme by <a href="http://startbootstrap.com">Start Bootstrap</a>
+  site scaffolding by <a href="https://github.com/jeromelachaud/freelancer-theme">Jerome Lachaud</a>
+  site generator by <a href="https://dossier.pm"
+    title="A generator for beautiful and up to date portfolio sites">me ;)</a>
 
 # Build settings
 markdown: kramdown
