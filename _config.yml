@@ -16,7 +16,7 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Olav Schettler
-  location: Bonn, Germany
+  location: Location
   social: Around the Web
   credits: Credits
 
@@ -35,16 +35,13 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Pipinstr. 14
-  - line: 53111 Bonn
-  - line: Germany
+  - line: Bonn, Germany
   
 # Credits content
-credits: |
-  Freelance theme by <a href="http://startbootstrap.com">Start Bootstrap</a>
-  site scaffolding by <a href="https://github.com/jeromelachaud/freelancer-theme">Jerome Lachaud</a>
-  site generator by <a href="https://dossier.pm"
-    title="A generator for beautiful and up to date portfolio sites">me ;)</a>
+credits:
+  - line: Freelance theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.
+  - line: Site scaffolding by <a href="https://github.com/jeromelachaud/freelancer-theme">Jerome Lachaud</a>.
+  - line: Site generator by <a href="https://dossier.pm" title="A generator for beautiful and up to date portfolio sites">me ;)</a>
 
 # Build settings
 markdown: kramdown
