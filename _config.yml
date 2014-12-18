@@ -2,6 +2,10 @@
 title: Dr. Olav Schettler
 email: olav@schettler.net
 description: "I am a software engineer, book author, and educator from Bonn, Germany."
+skills:
+  - Software Engineer
+  - Book Author
+  - Educator
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
