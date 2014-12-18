@@ -25,10 +25,9 @@
                         <h3>{{ site.footer.credits }}</h3>
                         <p>
                             {% for credit in site.credits %}
-                            {{ credit.line }} <br>
+                                {{ credit.line }} <br>
                             {% endfor %}
                         </p>
-                        <p>{{ site.credits | array_to_sentence_string }}</p>
                     </div>
                 </div>
             </div>
